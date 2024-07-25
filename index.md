@@ -1,6 +1,10 @@
 ---
-title: FlashKeeper
-layout: home
+layout: default
+title: About
+has_children: true
+has_toc: false
+permalink: /
+nav_order: 1
 ---
 
 Flashkeeper - the SPI flash chip manager
