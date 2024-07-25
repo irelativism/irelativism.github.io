@@ -9,7 +9,7 @@ nav_order: 1
 
 Flashkeeper - the SPI flash chip manager
 
-<img src="irelativism.github.io/images/chip.png" style="display: block; margin: auto;" />
+<img src="/images/chip.png" style="display: block; margin: auto;" />
 
 Model of one option for spring-loaded contacts (pogo pins) interfacing with a SOIC-8 flash chip from above (FreeCAD)
 
