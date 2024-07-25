@@ -5,6 +5,8 @@ layout: home
 
 Flashkeeper - the SPI flash chip manager
 
+<img src="irelativism.github.io/images/chip.png" style="display: block; margin: auto;" />
+
 Model of one option for spring-loaded contacts (pogo pins) interfacing with a SOIC-8 flash chip from above (FreeCAD)
 
 Flashkeeper is a device designed for installation inside a computer, connecting to the SPI flash chip where firmware is stored and making write protection control and reprogramming easy and secure.
