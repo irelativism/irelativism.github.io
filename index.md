@@ -23,6 +23,12 @@ To get started with creating a site, simply:
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
+Model of one option for spring-loaded contacts (pogo pins) interfacing with a SOIC-8 flash chip from above (FreeCAD)
+
+Flashkeeper is a device designed for installation inside a computer, connecting to the SPI flash chip where firmware is stored and making write protection control and reprogramming easy and secure.
+
+Developed by Dodoid and Insurgo
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
